@@ -1,0 +1,143 @@
+DBD_KilledCampers -> Survivors Killed
+DBD_SacrificedCampers -> Survivors Sacrificed
+DBD_TrapPickup -> Beartrap Catches
+DBD_ChainsawHit -> Chainsaw Hits (Billy)
+DBD_GeneratorPct_float -> generators completed
+DBD_HealPct_float -> healing states completed
+DBD_EscapeKO -> Escaped While Crawling
+DBD_Escape -> Escapes While healthy/injured
+DBD_SkillCheckSuccess -> Successful skill checks
+DBD_SacrificedCampers_iam -> After completing last generator as last survivor
+DBD_KilledCampers_iam -> Killed all 4 survivors with tier 3 Evil Within
+DBD_HookedAndEscape -> After unhooking self
+DBD_UnhookOrHeal -> survivorUnhookOrHeals
+DBD_UnhookOrHeal_PostExit -> end game heals or unhooks ?????
+DBD_BloodwebPoints -> Bloodweb points
+DBD_CamperMaxScoreByCategory -> Survivor Perfect Games
+DBD_SlasherMaxScoreByCategory -> Killer Perfect Games
+DBD_UncloakAttack -> Wraith uncloak attacks
+DBD_EscapeThroughHatch -> Escapes through Hatch
+DBD_CamperFullLoadout -> wentIntoMatchWithFullSurvivorLayout
+DBD_SlasherFullLoadout -> Went into match with full killer layout
+DBD_CamperNewItem -> escapesWithItem
+DBD_CamperKeepUltraRare -> usedUltraRareAndEscaped
+DBD_AllEscapeThroughHatch -> All survivors escaped through hatch
+DBD_CamperEscapeWithItemFrom -> Escape With item someone else brought into game
+DBD_UnlockRanking -> ????????????
+DBD_EscapeNoBlood_MapAsy_Asylum -> ???????????????????????
+DBD_FixSecondFloorGenerator_MapAsy_Asylum -> Repaired second floor generator and escaped
+DBD_SlasherChainAttack -> nuse blink attacks
+DBD_SlasherChainInterruptAfter3 -> ?????????????????
+DBD_SlasherTierIncrement -> Evil Within Tier Ups
+DBD_FixSecondFloorGenerator_MapSub_Street -> Repaired second floor generator and escaped
+DBD_EscapeNoBlood_Obsession -> Escaped With no bloodloss as obsession
+DBD_DLC3_Slasher_Stat1 -> Phantasms Triggered
+DBD_DLC3_Slasher_Stat2 -> Hit all survivors after teleporting to your phantasm trap
+DBD_FixSecondFloorGenerator_MapSwp_PaleRose -> Repaired second floor generator and escaped
+DBD_DLC3_Camper_Stat1 -> hexTotemsCleansed
+DBD_HitNearHook -> Hit near hook
+DBD_Camper8_Stat1 -> gens kicked completely repaired
+DBD_Camper8_Stat2 -> Vaults while being chased (survivor)
+DBD_DLC4_Slasher_Stat1 -> Survivors shocked by doc
+DBD_DLC4_Slasher_Stat2 -> Trials with all survivors in madness tier 3
+DBD_Camper9_Stat2 -> After been injured for half of the trial
+DBD_DLC5_Slasher_Stat1 -> Hatchets Thrown
+DBD_DLC5_Slasher_Stat2 -> Downed survivors With a hatchet (further than 24 meters)
+DBD_FinishWithPerks_Idx268435463 -> Adept Huntress
+DBD_FixSecondFloorGenerator_MapBrl_MaHouse -> Repaired second floor generator and escaped
+DBD_DLC6_Slasher_Stat2 -> survivors hooked in basement
+DBD_DLC6_Slasher_Stat1 -> Bubba chainsaw hits
+DBD_DLC7_Slasher_Stat1 -> Pulled into Dream State
+DBD_DLC7_Slasher_Stat2 -> ??????????????????????
+DBD_DLC7_Camper_Stat1 -> chests opened
+DBD_DLC7_Camper_Stat2 -> exit gates opened
+DBD_FinishWithPerks_Idx11 -> Adept Quentin Smith
+DBD_FinishWithPerks_Idx268435465 -> Adept The Nightmare
+DBD_DLC8_Slasher_Stat1 -> Reverse Bear Traps Placed
+DBD_DLC8_Slasher_Stat2 -> survivorsKilledInEndGame
+DBD_DLC8_Camper_Stat1 -> ??????????????????????
+DBD_Event1_Stat1 -> Had 3 survivors hooked in the basement at same time
+DBD_Event1_Stat2 -> Chests Searched in basement
+DBD_Event1_Stat3 -> Mystery boxes opened
+DBD_FinishWithPerks_Idx12 -> Adept Detective Tapp
+DBD_FinishWithPerks_Idx268435466 -> Adept The Pig
+DBD_FixSecondFloorGenerator_MapFin_Hideout -> Repaired second floor generator and escaped
+DBD_DLC9_Slasher_Stat1 -> Gens kicked after survivor hooked
+DBD_DLC9_Slasher_Stat2 -> survivorsDownedWhilePoisonedClown
+DBD_DLC9_Camper_Stat1 -> ??????????????????????
+DBD_FixSecondFloorGenerator_MapAsy_Chapel -> Repaired second floor generator and escaped
+DBD_FinishWithPerks_Idx10 -> Adept Kate Denson
+DBD_FinishWithPerks_Idx268435467 -> Adept The Clown
+DBD_FinishWithPerks_Idx0 -> Adept Dwight Fairfield
+DBD_FinishWithPerks_Idx3 -> Adept Jake Park
+DBD_FinishWithPerks_Idx268435456 -> Adept The Trapper
+DBD_FinishWithPerks_Idx268435457 -> Adept The Wraith
+DBD_FinishWithPerks_Idx268435458 -> Adept The Hillbilly
+DBD_Chapter9_Slasher_Stat1 -> survivorsHitWhoDroppedPalletInChase
+DBD_Chapter9_Slasher_Stat2 -> Downed survivors After haunting
+DBD_Chapter9_Camper_Stat1 -> kobe'd
+DBD_FixSecondFloorGenerator_MapHti_Manor -> Repaired second floor generator and escaped
+DBD_FinishWithPerks_Idx13 -> Adept Adam Francis
+DBD_FinishWithPerks_Idx268435468 -> Adept The Spirit
+DBD_Chapter10_Slasher_Stat1 -> Survivors hit while carrying a survivor
+DBD_Chapter10_Slasher_Stat2 -> Downed survivors While in deep wound
+DBD_FinishWithPerks_Idx268435469 -> Adept The Legion
+DBD_Chapter10_Camper_Stat1 -> Hooks Sabotaged
+DBD_FixSecondFloorGenerator_MapKny_Cottage -> Repaired second floor generator and escaped
+DBD_FinishWithPerks_Idx14 -> Adept Jeff Johansen
+DBD_Chapter11_Slasher_Stat1 -> survivorsKilledBeforeEndGame
+DBD_Chapter11_Slasher_Stat2 -> Downed survivors While in max sickness
+DBD_Chapter11_Camper_Stat1_float -> Healing states completed while injured
+DBD_FixSecondFloorGenerator_MapBrl_Temple -> Repaired second floor generator and escaped
+DBD_FinishWithPerks_Idx15 -> Adept Jane Romero
+DBD_Chapter12_Slasher_Stat1 -> Survivors grabbed while repairing a gen
+DBD_Chapter12_Slasher_Stat2 -> Downed survivors While marked (Ghostface)
+DBD_Chapter12_Camper_Stat1 -> Wiggled from the killers grasp
+DBD_Chapter12_Camper_Stat2 -> Through the hatch while crawling
+DBD_FinishWithPerks_Idx16 -> Adept Ashley J. Williams
+DBD_Chapter13_Slasher_Stat1 -> hatchesClosed
+DBD_Chapter13_Slasher_Stat2 -> Downed Survivors While using shred
+DBD_FinishWithPerks_Idx268435472 -> Adept The Demogorgon
+DBD_FixSecondFloorGenerator_MapQat_Lab -> Repaired second floor generator and escaped
+DBD_FinishWithPerks_Idx17 -> Adept Nancy Wheeler
+DBD_FinishWithPerks_Idx18 -> Adept Steve Harrington
+DBD_Chapter14_Slasher_Stat1 -> Hooked a survivor while 3 other survivors were injured
+DBD_Chapter14_Slasher_Stat2 -> Downed survivors While using blood fury
+DBD_FixSecondFloorGenerator_MapHti_Shrine -> Repaired second floor generator and escaped
+DBD_Chapter14_Camper_Stat1 -> ??????????????????????
+DBD_FinishWithPerks_Idx19 -> Adept Yui Kimura
+DBD_Chapter15_Slasher_Stat1 -> ??????????????????????
+DBD_Chapter15_Slasher_Stat2 -> Survivors interrupted while cleansing a totem
+DBD_FinishWithPerks_Idx268435474 -> Adept The Deathslinger
+DBD_FixSecondFloorGenerator_MapUkr_Saloon -> Repaired second floor generator and escaped
+DBD_Chapter15_Camper_Stat1 -> ??????????????????????
+DBD_FinishWithPerks_Idx20 -> Adept Zarina Kassir
+DBD_Chapter16_Slasher_Stat1 -> Cages of Atonement
+DBD_Chapter16_Slasher_Stat2 -> Downed survivors While suffering from oblivious
+DBD_FinishWithPerks_Idx268435475 -> The Executioner
+DBD_FixSecondFloorGenerator_MapWal_Level_01 -> Repaired second floor generator and escaped
+DBD_Chapter16_Camper_Stat1_float -> ??????? (Obsessions healed??)
+DBD_FinishWithPerks_Idx21 -> Adept Cheryl Mason
+DBD_Chapter17_Slasher_Stat1 -> Lethal Rush Hits
+DBD_Chapter17_Slasher_Stat2 -> Down survivors While exposed
+DBD_FinishWithPerks_Idx268435476 -> Adept The Blight
+DBD_Chapter17_Camper_Stat1 -> ???????? (Items Depleted???)
+DBD_Chapter17_Camper_Stat2_float -> ???????? (Survivors healed while 3 others are injured, dying or hooked???)
+DBD_FinishWithPerks_Idx22 -> Adept Felix Richter
+DBD_Chapter18_Slasher_Stat1 -> Downed survivors While Victor is clinged to them
+DBD_Chapter18_Slasher_Stat2 -> Survivors hooked during end game collapse
+DBD_Chapter18_Camper_Stat1 -> Killers pallet stunned while carrying a survivor
+DBD_Chapter18_Camper_Stat2_float -> ??????????????????????
+DBD_FinishWithPerks_Idx23 -> Adept Élodie Rakoto
+DBD_Chapter19_Slasher_Stat1 -> Lacerations
+DBD_Chapter19_Slasher_Stat2 -> Downed survivors While carrying a survivor
+DBD_FinishWithPerks_Idx268435478 -> Adept The Trickster
+DBD_Chapter19_Camper_Stat1 -> ??????????????????????
+DBD_Chapter19_Camper_Stat2 -> ??????????????????????
+DBD_FinishWithPerks_Idx24 -> Yun-Jin Lee
+DBD_Chapter20_Slasher_Stat1 -> While contimated using Tentacle Strike
+DBD_Chapter20_Slasher_Stat2 -> Suvivors hooked before a generator is repaired
+DBD_FinishWithPerks_Idx268435479 -> Adept The Nemesis
+DBD_FixSecondFloorGenerator_MapEcl_Level_01 -> Repaired second floor generator and escaped
+DBD_FinishWithPerks_Idx26 -> Adept Leon S. Kennedy
+DBD_FinishWithPerks_Idx25 -> Adept Jill Valentine

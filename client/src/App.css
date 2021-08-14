@@ -1,0 +1,40 @@
+
+
+.FlavorText {
+  margin-top: 10px;
+  display: inline-block;
+  font-style: italic;
+  color: lightgrey;
+}
+
+.Highlight1 {
+  color: #e8c252;
+  font-weight: bold;
+}
+
+.Highlight2 {
+  color: #199b1e;
+  font-weight: bold;
+}
+
+.Highlight3 {
+  color: #ac3ee3;
+  font-weight: bold;
+}
+
+.Highlight4 {
+  color: purple;
+  font-weight: bold;
+}
+
+.level1 {
+  color: #e8c252;
+}
+
+.level2 {
+  color: #199b1e;
+}
+
+.level3 {
+  color: #ac3ee3;
+}

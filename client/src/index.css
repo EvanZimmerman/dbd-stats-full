@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(17, 24, 39);
+  margin: 0;
+  padding: 0;
+  background-image:
+  linear-gradient(rgba(0, 26, 28, 0.88), rgba(18, 21, 41, 0.88)),
+  url('./img/bg.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+  font-family: rubik, sans-serif;
+}
+
+li {
+  margin: 2%;
+}
+
+.news {
+  padding: 2%;
+}
+
+.news li {
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: 2%;
+}
+
+.news h2 {
+  font-size: 1.2rem;
+  margin-top: 1%;
+  font-weight: bold;
+}
+
+.news ul {
+  list-style-type: disc;
+}
+
+.news img {
+  min-width: 30%;
+  max-width: 40%;
+  margin: 2% 0;
+}
+
+.news div:nth-of-type(1) {
+  font-size: 30px;
+}
+
+.news .ytp-cued-thumbnail-overlay-image {
+  max-width: 500px !important;
+}
+
+.news > div > a {
+  color: lightyellow;
+  text-decoration: underline;
+}
+
+.news > div > a:hover {
+  color: lightblue;
+}

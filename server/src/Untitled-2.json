@@ -1,0 +1,1366 @@
+{
+  "playerstats": {
+      "steamID": "76561198055161249",
+      "gameName": "Dead by Daylight",
+      "stats": [
+          {
+              "name": "DBD_KillerSkulls",
+              "value": 85
+          },
+          {
+              "name": "DBD_CamperSkulls",
+              "value": 78
+          },
+          {
+              "name": "DBD_KilledCampers",
+              "value": 255
+          },
+          {
+              "name": "DBD_SacrificedCampers",
+              "value": 12706
+          },
+          {
+              "name": "DBD_TrapPickup",
+              "value": 111
+          },
+          {
+              "name": "DBD_ChainsawHit",
+              "value": 191
+          },
+          {
+              "name": "DBD_GeneratorPct_float",
+              "value": 9084.50390625
+          },
+          {
+              "name": "DBD_HealPct_float",
+              "value": 3587.391845703125
+          },
+          {
+              "name": "DBD_EscapeKO",
+              "value": 219
+          },
+          {
+              "name": "DBD_Escape",
+              "value": 2548
+          },
+          {
+              "name": "DBD_SkillCheckSuccess",
+              "value": 40003
+          },
+          {
+              "name": "DBD_SacrificedCampers_iam",
+              "value": 0
+          },
+          {
+              "name": "DBD_KilledCampers_iam",
+              "value": 0
+          },
+          {
+              "name": "DBD_HookedAndEscape",
+              "value": 31
+          },
+          {
+              "name": "DBD_UnhookOrHeal",
+              "value": 6115
+          },
+          {
+              "name": "DBD_UnhookOrHeal_PostExit",
+              "value": 400
+          },
+          {
+              "name": "DBD_BloodwebMaxLevel",
+              "value": 50
+          },
+          {
+              "name": "DBD_BloodwebPoints",
+              "value": 365160483
+          },
+          {
+              "name": "DBD_CamperMaxScoreByCategory",
+              "value": 500
+          },
+          {
+              "name": "DBD_SlasherMaxScoreByCategory",
+              "value": 1952
+          },
+          {
+              "name": "DBD_BloodwebMaxPrestigeLevel",
+              "value": 3
+          },
+          {
+              "name": "DBD_UncloakAttack",
+              "value": 2326
+          },
+          {
+              "name": "DBD_BloodwebPrestige3MaxLevel",
+              "value": 50
+          },
+          {
+              "name": "DBD_EscapeThroughHatch",
+              "value": 186
+          },
+          {
+              "name": "DBD_PerksCount_Idx0",
+              "value": 8
+          },
+          {
+              "name": "DBD_PerksCount_Idx1",
+              "value": 6
+          },
+          {
+              "name": "DBD_PerksCount_Idx2",
+              "value": 6
+          },
+          {
+              "name": "DBD_PerksCount_Idx3",
+              "value": 6
+          },
+          {
+              "name": "DBD_PerksCount_Idx268435456",
+              "value": 6
+          },
+          {
+              "name": "DBD_PerksCount_Idx268435457",
+              "value": 6
+          },
+          {
+              "name": "DBD_PerksCount_Idx268435458",
+              "value": 6
+          },
+          {
+              "name": "DBD_BloodwebPerkMaxLevel",
+              "value": 3
+          },
+          {
+              "name": "DBD_MaxBloodwebPointsOneCategory",
+              "value": 41880000
+          },
+          {
+              "name": "DBD_BurnOffering_UltraRare",
+              "value": 46
+          },
+          {
+              "name": "DBD_CamperFullLoadout",
+              "value": 1462
+          },
+          {
+              "name": "DBD_SlasherFullLoadout",
+              "value": 1731
+          },
+          {
+              "name": "DBD_CamperNewItem",
+              "value": 394
+          },
+          {
+              "name": "DBD_CamperKeepUltraRare",
+              "value": 242
+          },
+          {
+              "name": "DBD_AllEscapeThroughHatch",
+              "value": 2
+          },
+          {
+              "name": "DBD_CamperEscapeWithItemFrom",
+              "value": 23
+          },
+          {
+              "name": "DBD_UnlockRanking",
+              "value": 1124
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx4",
+              "value": 1
+          },
+          {
+              "name": "DBD_EscapeNoBlood_MapAsy_Asylum",
+              "value": 13
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapAsy_Asylum",
+              "value": 14
+          },
+          {
+              "name": "DBD_SlasherChainAttack",
+              "value": 3045
+          },
+          {
+              "name": "DBD_SlasherChainInterruptAfter3",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435459",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435461",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx5",
+              "value": 1
+          },
+          {
+              "name": "DBD_SlasherTierIncrement",
+              "value": 651
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapSub_Street",
+              "value": 42
+          },
+          {
+              "name": "DBD_EscapeNoBlood_Obsession",
+              "value": 7
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435460",
+              "value": 1
+          },
+          {
+              "name": "DBD_DLC3_Slasher_Stat1",
+              "value": 357
+          },
+          {
+              "name": "DBD_DLC3_Slasher_Stat2",
+              "value": 8
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx6",
+              "value": 1
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapSwp_PaleRose",
+              "value": 25
+          },
+          {
+              "name": "DBD_DLC3_Camper_Stat1",
+              "value": 743
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx7",
+              "value": 1
+          },
+          {
+              "name": "DBD_HitNearHook",
+              "value": 612
+          },
+          {
+              "name": "DBD_Camper8_Stat1",
+              "value": 3007
+          },
+          {
+              "name": "DBD_Camper8_Stat2",
+              "value": 7383
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx8",
+              "value": 1
+          },
+          {
+              "name": "DBD_DLC4_Slasher_Stat1",
+              "value": 1040
+          },
+          {
+              "name": "DBD_DLC4_Slasher_Stat2",
+              "value": 66
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435462",
+              "value": 1
+          },
+          {
+              "name": "DBD_Camper9_Stat2",
+              "value": 196
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx9",
+              "value": 1
+          },
+          {
+              "name": "DBD_DLC5_Slasher_Stat1",
+              "value": 22078
+          },
+          {
+              "name": "DBD_DLC5_Slasher_Stat2",
+              "value": 78
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435463",
+              "value": 1
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapBrl_MaHouse",
+              "value": 15
+          },
+          {
+              "name": "DBD_DLC6_Slasher_Stat2",
+              "value": 1803
+          },
+          {
+              "name": "DBD_DLC6_Slasher_Stat1",
+              "value": 2983
+          },
+          {
+              "name": "DBD_DLC7_Slasher_Stat1",
+              "value": 920
+          },
+          {
+              "name": "DBD_DLC7_Slasher_Stat2",
+              "value": 2719
+          },
+          {
+              "name": "DBD_DLC7_Camper_Stat1",
+              "value": 1118
+          },
+          {
+              "name": "DBD_DLC7_Camper_Stat2",
+              "value": 1077
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx11",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435465",
+              "value": 1
+          },
+          {
+              "name": "DBD_DLC8_Slasher_Stat1",
+              "value": 275
+          },
+          {
+              "name": "DBD_DLC8_Slasher_Stat2",
+              "value": 1929
+          },
+          {
+              "name": "DBD_DLC8_Camper_Stat1",
+              "value": 479
+          },
+          {
+              "name": "DBD_Event1_Stat1",
+              "value": 127
+          },
+          {
+              "name": "DBD_Event1_Stat2",
+              "value": 115
+          },
+          {
+              "name": "DBD_Event1_Stat3",
+              "value": 2566
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx12",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435466",
+              "value": 1
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapFin_Hideout",
+              "value": 20
+          },
+          {
+              "name": "DBD_DLC9_Slasher_Stat1",
+              "value": 4409
+          },
+          {
+              "name": "DBD_DLC9_Slasher_Stat2",
+              "value": 1411
+          },
+          {
+              "name": "DBD_DLC9_Camper_Stat1",
+              "value": 747
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapAsy_Chapel",
+              "value": 16
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx10",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435467",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx0",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx3",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435456",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435457",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435458",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter9_Slasher_Stat1",
+              "value": 6235
+          },
+          {
+              "name": "DBD_Chapter9_Slasher_Stat2",
+              "value": 270
+          },
+          {
+              "name": "DBD_Chapter9_Camper_Stat1",
+              "value": 77
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapHti_Manor",
+              "value": 10
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx13",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435468",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter10_Slasher_Stat1",
+              "value": 832
+          },
+          {
+              "name": "DBD_Chapter10_Slasher_Stat2",
+              "value": 204
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435469",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter10_Camper_Stat1",
+              "value": 94
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapKny_Cottage",
+              "value": 36
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx14",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter11_Slasher_Stat1",
+              "value": 2405
+          },
+          {
+              "name": "DBD_Chapter11_Slasher_Stat2",
+              "value": 462
+          },
+          {
+              "name": "DBD_Chapter11_Camper_Stat1_float",
+              "value": 637.44873046875
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapBrl_Temple",
+              "value": 13
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx15",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter12_Slasher_Stat1",
+              "value": 153
+          },
+          {
+              "name": "DBD_Chapter12_Slasher_Stat2",
+              "value": 281
+          },
+          {
+              "name": "DBD_Chapter12_Camper_Stat1",
+              "value": 57
+          },
+          {
+              "name": "DBD_Chapter12_Camper_Stat2",
+              "value": 22
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx16",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter13_Slasher_Stat1",
+              "value": 1212
+          },
+          {
+              "name": "DBD_Chapter13_Slasher_Stat2",
+              "value": 272
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435472",
+              "value": 1
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapQat_Lab",
+              "value": 8
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx17",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx18",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter14_Slasher_Stat1",
+              "value": 876
+          },
+          {
+              "name": "DBD_Chapter14_Slasher_Stat2",
+              "value": 96
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapHti_Shrine",
+              "value": 22
+          },
+          {
+              "name": "DBD_Chapter14_Camper_Stat1",
+              "value": 168
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx19",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter15_Slasher_Stat1",
+              "value": 1097
+          },
+          {
+              "name": "DBD_Chapter15_Slasher_Stat2",
+              "value": 80
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435474",
+              "value": 1
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapUkr_Saloon",
+              "value": 33
+          },
+          {
+              "name": "DBD_Chapter15_Camper_Stat1",
+              "value": 965
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx20",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter16_Slasher_Stat1",
+              "value": 92
+          },
+          {
+              "name": "DBD_Chapter16_Slasher_Stat2",
+              "value": 548
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435475",
+              "value": 1
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapWal_Level_01",
+              "value": 20
+          },
+          {
+              "name": "DBD_Chapter16_Camper_Stat1_float",
+              "value": 516.99713134765625
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx21",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter17_Slasher_Stat1",
+              "value": 290
+          },
+          {
+              "name": "DBD_Chapter17_Slasher_Stat2",
+              "value": 897
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435476",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter17_Camper_Stat1",
+              "value": 883
+          },
+          {
+              "name": "DBD_Chapter17_Camper_Stat2_float",
+              "value": 531.35833740234375
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx22",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter18_Slasher_Stat1",
+              "value": 27
+          },
+          {
+              "name": "DBD_Chapter18_Slasher_Stat2",
+              "value": 337
+          },
+          {
+              "name": "DBD_Chapter18_Camper_Stat1",
+              "value": 23
+          },
+          {
+              "name": "DBD_Chapter18_Camper_Stat2_float",
+              "value": 2
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx23",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter19_Slasher_Stat1",
+              "value": 629
+          },
+          {
+              "name": "DBD_Chapter19_Slasher_Stat2",
+              "value": 34
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435478",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter19_Camper_Stat1",
+              "value": 354
+          },
+          {
+              "name": "DBD_Chapter19_Camper_Stat2",
+              "value": 4263
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx24",
+              "value": 1
+          },
+          {
+              "name": "DBD_Chapter20_Slasher_Stat1",
+              "value": 184
+          },
+          {
+              "name": "DBD_Chapter20_Slasher_Stat2",
+              "value": 144
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx268435479",
+              "value": 1
+          },
+          {
+              "name": "DBD_FixSecondFloorGenerator_MapEcl_Level_01",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx26",
+              "value": 1
+          },
+          {
+              "name": "DBD_FinishWithPerks_Idx25",
+              "value": 1
+          }
+      ],
+      "achievements": [
+          {
+              "name": "ACH_SACRIFICE_4_SURVIVORS_IAM",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_SACRIFICE_100_CAMPERS",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_SACRIFICE_1000_CAMPERS",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_KILL_1_CAMPER",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_KILL_4_CAMPERS_IAM",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_KILL_25_CAMPERS",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_100_PICKUP_TRAPPED",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_100_CHASE_INVISIBLE",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_100_CHAINSAW",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_HOOKED_ESCAPE",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_50_ESCAPES",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_ESCAPE_KO",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_HATCH_ESCAPE",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_4CAMPERS_ESCAPE",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_HEALDYING_OR_UNHOOK",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_HEALDYING_OR_UNHOOK_POSTEXIT",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_HEAL",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_REPAIR",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_SKILL_CHECK",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CAMPER_MAXSCORE_BYCAT",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_SLASHER_MAXSCORE_BYCAT",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_10K_POINTS_ONECATEGORY",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_BLOODWEB_LVL10",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_BLOODWEB_LVL50",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_BLOODWEB_1M_PTS",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CAMPER_RANK10",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CAMPER_RANK05",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CAMPER_RANK01",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_RANKING",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_SLASHER_RANK10",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_SLASHER_RANK05",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_SLASHER_RANK01",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_BURN_ULTRARARE_OFFERING",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_FULLLOADOUT_CAMPER",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_FULLLOADOUT_SLASHER",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_EQUIPANDESCAPE_ULTRARARE",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_ESCAPE_WITH_ITEM",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_ESCAPE_WITH_ITEM_FROM",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_UNLOCK_JACK_PERKS",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_UNLOCK_DWIGHT_PERKS",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_UNLOCK_CLAUDETTE_PERKS",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_UNLOCK_MEG_PERKS",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_UNLOCK_CHUCKLES_PERKS",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_UNLOCKBANSHEE_PERKS",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_UNLOCKHILLBILY_PERKS",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_PERK_LVL3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_PRESTIGE_LVL1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_PRESTIGE_LVL2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_PRESTIGE_LVL3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_PRESTIGE_LVL3_100",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_NOBLOOD_ASYLUM",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_2NDFLOORREPAIR_ASYLUM",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_USE_NEA_PERKS",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC1_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC1_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC1_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC2_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC2_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC2_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC2_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC2_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC3_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC3_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC3_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC3_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC3_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC3_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "SURVIVOR7_ACHIEVEMENT_1",
+              "achieved": 1
+          },
+          {
+              "name": "SURVIVOR7_ACHIEVEMENT_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC4_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC4_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC4_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC4_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC4_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC4_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC5_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC5_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC5_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC5_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC5_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC5_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC6_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC6_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC7_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC7_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC7_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC7_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC7_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC7_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_WE2017_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_WE2017_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_WE2017_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC8_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC8_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC8_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC8_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC8_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC8_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC9_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC9_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC9_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC9_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC9_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_DLC9_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER9_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER9_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER9_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER9_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER9_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER9_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER10_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER10_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER10_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER10_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER10_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER10_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER11_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER11_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER11_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER11_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER11_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER12_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER12_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER12_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER12_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER12_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER13_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER13_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER13_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER13_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER13_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER13_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER14_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER14_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER14_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER14_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER14_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "NEW_ACHIEVEMENT_146_26",
+              "achieved": 1
+          },
+          {
+              "name": "NEW_ACHIEVEMENT_146_27",
+              "achieved": 1
+          },
+          {
+              "name": "NEW_ACHIEVEMENT_146_28",
+              "achieved": 1
+          },
+          {
+              "name": "NEW_ACHIEVEMENT_146_29",
+              "achieved": 1
+          },
+          {
+              "name": "NEW_ACHIEVEMENT_146_30",
+              "achieved": 1
+          },
+          {
+              "name": "NEW_ACHIEVEMENT_146_31",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER16_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER16_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER16_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER16_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER16_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER16_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER17_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER17_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER17_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER17_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER17_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER17_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER18_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER18_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER18_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER18_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER19_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER19_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER19_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER19_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER19_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER19_SURVIVOR_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER20_KILLER_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER20_KILLER_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER20_KILLER_3",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER20_SURVIVOR_1",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER20_SURVIVOR_2",
+              "achieved": 1
+          },
+          {
+              "name": "ACH_CHAPTER20_SURVIVOR_3",
+              "achieved": 1
+          }
+      ]
+  }
+}
